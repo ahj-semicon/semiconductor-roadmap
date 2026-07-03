@@ -1,2 +1,3 @@
-# C-Study
-C language study for Digital Design &amp; FPGA
+# semiconductor-roadmap
+
+My journey to become a semiconductor design engineer.
