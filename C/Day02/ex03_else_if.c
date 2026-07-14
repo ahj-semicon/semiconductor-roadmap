@@ -36,7 +36,7 @@ int main(void)
 
 /*
  * Summary
- * - if executes when the condition is true.
- * - else executes when the condition is false.
- * - Only one block is executed.
+ * - else if checks another condition.
+ * - Conditions are checked from top to bottom.
+ * - The first true condition is executed.
  */
