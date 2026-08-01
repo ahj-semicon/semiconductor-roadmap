@@ -26,6 +26,10 @@ int main(void)
     {
         printf("Grade : C\n");
     }
+     else if (score >= 60)
+    {
+        printf("Grade : D\n");
+    }
      else
     {
         printf("Grade : F\n");
